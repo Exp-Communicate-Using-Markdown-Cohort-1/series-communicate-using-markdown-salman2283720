@@ -1,2 +1,12 @@
+# This is an `<h1>` header, which is the largest
+## This is an `<h2>` header
+###### This is an `<h6>` header, which is the smallest
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-![Image of a cat](https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187.jpg?w=374&h=250)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
